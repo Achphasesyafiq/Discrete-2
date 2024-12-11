@@ -1,0 +1,22 @@
+{
+    "Banten": {
+        "Serang": ["Tangerang", "Pandeglang", "Cilegon"],
+        "Tangerang": ["Serang", "Tangerang Selatan", "Serpong"],
+        "Tangerang Selatan": ["Tangerang", "Serpong"],
+        "Cilegon": ["Serang", "Pandeglang"],
+        "Pandeglang": ["Serang", "Cilegon"],
+        "Serpong": ["Tangerang", "Tangerang Selatan"]
+    },
+    "Jawa Barat": {
+        "Bandung": ["Bekasi", "Bogor", "Garut"],
+        "Bekasi": ["Bandung", "Karawang", "Bogor"],
+        "Bogor": ["Bandung", "Bekasi", "Depok"],
+        "Depok": ["Bogor", "Bekasi"],
+        "Sukabumi": ["Bogor", "Bandung"],
+        "Cirebon": ["Garut", "Bandung"],
+        "Garut": ["Bandung", "Cirebon", "Tasikmalaya"],
+        "Tasikmalaya": ["Garut", "Cirebon"],
+        "Karawang": ["Bekasi", "Purwakarta"],
+        "Purwakarta": ["Karawang", "Bekasi"]
+    }
+}
