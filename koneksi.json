@@ -1,0 +1,10 @@
+{
+  "Banten": {
+    "Serang": ["Tangerang", "Cilegon", "Pandeglang"],
+    "Tangerang": ["Serang", "Tangerang Selatan", "Cilegon"],
+    "Tangerang Selatan": ["Tangerang", "Serpong", "Cilegon"],
+    "Cilegon": ["Serang", "Tangerang", "Pandeglang", "Tangerang Selatan"],
+    "Pandeglang": ["Serang", "Cilegon"],
+    "Serpong": ["Tangerang Selatan"]
+  }
+}
